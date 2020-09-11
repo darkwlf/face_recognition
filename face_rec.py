@@ -91,4 +91,4 @@ def classify_face(im):
             return face_names
 
 
-#classify_face("face.jpg")
+classify_face("face.jpg")
